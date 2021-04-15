@@ -17,6 +17,9 @@ php artisan key:generate
 ```bash
 php artisan migrate:fresh --seed
 ```
+```bash
+php artisan serve
+```
 ## then add url and add agency_id to url (1,2,3)
 ## without sorting 
 http://127.0.0.1:8000/agencies/1/dailynews
